@@ -306,6 +306,9 @@ a.color {
 .slide-type-1-sync{
 	text-align:center;
 }
+.slide-type-1 img{
+margin-left: 60px;
+}
 .slide-type-1-sync h3{
 	color: #6B7178;
 	font-size: 16px;
@@ -360,7 +363,7 @@ a.color {
 }
 .slide-desc h1, .slide-desc-2 h1{
 	color: #38414B;
-	font-size: 36px;
+	font-size: 26px;
 	text-shadow: 1px 1px 1px #FFF;
 	line-height: 40px;
 	font-weight: 700;
@@ -374,7 +377,6 @@ a.color {
 	font-weight: 700;
 	font-size: 17px;
 }
-
 /**---------------home carousel------------------------------------------**/
 
 /**---------------Content With Sidebar------------------------------------------**/
@@ -461,6 +463,20 @@ a.color {
 	top:0;
 	position:absolute;
 }
+.circle {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	right:0;
+	top:0;
+	position:absolute;
+	line-height: 50px;
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+	background: #000;
+
+  }
 .new{
 	height:49px;
 	width:56px;
